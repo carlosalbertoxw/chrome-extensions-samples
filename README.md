@@ -1,4 +1,4 @@
-# HTTPSVerifier
+# web-extensions-samples
 
 ## Overview
 
